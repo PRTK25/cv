@@ -4,7 +4,6 @@
 [Email](mailto:prateekgulati25@live.com) / [LinkedIn](https://www.linkedin.com/in/prateek-gulati-2b282b89/)  
 
 
-
 ## Work Experience
 ### **Applications Developer 2** @ [Oracle Financial Services Software](https://www.oracle.com/in/industries/financial-services/)  
 _(July 2018 - Present)_ - 📍 Mumbai, India.
@@ -54,8 +53,8 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/)
 - Used Finite Difference Methods to model Option Prices using Black Scholes Model and Merton Jump Diffution Model. 
 - Compared Finite Difference Methods to Monte Carlo methods in terms of accuracy and execution times.
-## Education 
 
+## Education 
 [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/)
 **Integrated MSc in Applied Mathematics** (CGPA: 8.184/10)
 *(Jul 2013 - May 2018)*

@@ -18,8 +18,6 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 
 **OJET\(Oracle JavaScript Extension Toolkit) Web Apps**
  - Developed Webapps for multiple POCs and demos to showcase OBP (Oracle Banking Platform) Rest API framwork, using OJET for frontend.
-
- 
  - Collaborated with Devops to set up continuous integration for OBP UI Projects.
  - Developed a java based utility to parse JSFF pages (used in Oracle ADF) to automatically generate OJET based screens.
 
@@ -27,7 +25,6 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 
 **Kubernetes Deployment Scripts**
 - Created python based deployment scripts using Kubernetes Python Client which eased creation and updation of containerized environments.
-
 - Setup Kubernetes Jobs for providing easy deployment of OBP Kubernetes Cluster, on testing environments, directly from Kubernetes Dashboard.
 
 - **_Technologies used_**: *Docker, Kubernetes, Python.*
@@ -55,6 +52,7 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 - Compared Finite Difference Methods to Monte Carlo methods in terms of accuracy and execution times.
 
 ## Education 
+
 [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/)
 **Integrated MSc in Applied Mathematics** (CGPA: 8.184/10)
 *(Jul 2013 - May 2018)*

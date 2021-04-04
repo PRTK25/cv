@@ -54,6 +54,8 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 ## Education 
 
 [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/)
+
 **Integrated MSc in Applied Mathematics** (CGPA: 8.184/10)
+
 *(Jul 2013 - May 2018)*
 

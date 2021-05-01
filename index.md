@@ -10,14 +10,13 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 
 **Native Process Framework** 
 - Developed a Java based Workflow Engine to support long running Banking Business Processes. Built core framework functionalities such as asynchronous and synchronous execution, looping, user tasks, error handling etc. 
-- Built tooling for process definition DSL, reducing effort required to build processes. 
-- Migrated existing Oracle BPEL processes invoving Deposit and Credit Card Account Origination flows. 
-- Wrote unit test for existing and new functionalities and brought code coverage to 70%. Added extensive documentation ranging from javadocs to usage guides. 
+- Built tooling for process definition DSL, reducing effort required to build processes. Migrated existing Oracle BPEL processes involving Deposit and Credit Card Account Origination flows. 
+- Wrote unit test for existing and new functionalities and brought code coverage to 70%. Added extensive documentation ranging from javadoc to usage guides. 
 
 - **_Technologies used_**: *Java, Oracle SQL.*
 
 **OJET\(Oracle JavaScript Extension Toolkit) Web Apps**
- - Developed Webapps for multiple POCs and demos to showcase OBP (Oracle Banking Platform) Rest API framwork, using OJET for frontend.
+ - Developed Webapps for multiple POCs and demos to showcase OBP (Oracle Banking Platform) REST API framework, using OJET for frontend.
  - Collaborated with Devops to set up continuous integration for OBP UI Projects.
  - Developed a java based utility to parse JSFF pages (used in Oracle ADF) to automatically generate OJET based screens.
 

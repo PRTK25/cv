@@ -10,20 +10,20 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 
 **Native Process Framework** 
 - Developed a Java based Workflow Engine to support long running Banking Business Processes. Built core framework functionalities such as asynchronous and synchronous execution, looping, user tasks, error handling etc. 
-- Built tooling for process definition DSL, reducing effort required to build processes. Migrated existing Oracle BPEL processes involving Deposit and Credit Card Account Origination flows. 
-- Wrote unit test for existing and new functionalities and brought code coverage to 70%. Added extensive documentation ranging from javadoc to usage guides. 
+- Built tooling for process definition DSL, reducing the effort required to build processes. Migrated existing Oracle BPEL processes involving Deposit and Credit Card Account Origination flows. 
+- Wrote unit tests for existing and new functionalities and brought code coverage to 70%. Added extensive documentation ranging from javadoc to usage guides. 
 
 - **_Technologies used_**: *Java, Oracle SQL.*
 
 **OJET\(Oracle JavaScript Extension Toolkit) Web Apps**
  - Developed Webapps for multiple POCs and demos to showcase OBP (Oracle Banking Platform) REST API framework, using OJET for frontend.
- - Collaborated with Devops to set up continuous integration for OBP UI Projects.
+ - Collaborated with DevOps to set up continuous integration for OBP UI Projects.
  - Developed a java based utility to parse JSFF pages (used in Oracle ADF) to automatically generate OJET based screens.
 
 - **_Technologies used_**:  *HTML,CSS, Typescript, REST.*
 
 **Kubernetes Deployment Scripts**
-- Created python based deployment scripts using Kubernetes Python Client which eased creation and updation of containerized environments.
+- Created deployment scripts in Python, using Kubernetes Python Client which eased creating and updating containerized environments.
 - Setup Kubernetes Jobs for providing easy deployment of OBP Kubernetes Cluster, on testing environments, directly from Kubernetes Dashboard.
 
 - **_Technologies used_**: *Docker, Kubernetes, Python.*
@@ -33,7 +33,7 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 *(May 2017 - June 2017)* - 📍 Mumbai, India.
 
 **Datamart Design**
-- Worked as a technology consultant for an NBFC, on creation of Data Mart for report automation for the Finance team.
+- Worked as a technology consultant for an NBFC, on the development of a Data Mart for report automation for the Finance team.
 - Analyzed Business Requirement Documents to identify the KPIs for each report and their data sources. The reports were to be used in the schema design and ETL stages of the Data Mart development.
 
 ## Projects
@@ -41,13 +41,13 @@ _(July 2018 - Present)_ - 📍 Mumbai, India.
 ### Automatic Description of Videos using Deep Learning
 [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/)
 
-- Trained an LSTM based Neural Network model (S2VT) using Tenserflow, on video-sentence pairs to generate description of events in a video.  
-- The model was successfully able to encode the information of video frames and decode it to form a sentence which were both syntactically and grammatically correct.
-- Evaluated the model using qualititave and quantitative techniques to measure the effectiveness of deep learning on video to text conversion problem.
+- Trained an LSTM based Neural Network model (S2VT) using TensorFlow, on video-sentence pairs to generate a description of events in a video.  
+- The model was successfully able to encode the information of video frames and decode it to form a sentence that was both syntactically and grammatically correct.
+- Evaluated the model using qualitative and quantitative techniques to measure the effectiveness of deep learning on video to text conversion problem.
 
 ### Option Pricing Using Finite Difference Methods
 [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/)
-- Used Finite Difference Methods to model Option Prices using Black Scholes Model and Merton Jump Diffution Model. 
+- Used Finite Difference Methods to model Option Prices using Black Scholes Model and Merton Jump Diffusion Model. 
 - Compared Finite Difference Methods to Monte Carlo methods in terms of accuracy and execution times.
 
 ## Education 
